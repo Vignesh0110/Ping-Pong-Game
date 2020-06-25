@@ -1,5 +1,5 @@
 # Ping_Pong_Game_using_pygame
 
-## Run this file using the command
+## Command to run this file
 
-### python 'Pygame Pong.py'
+python 'Pygame Pong.py'
